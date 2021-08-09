@@ -1,23 +1,28 @@
-# NextJS TailwindCSS Starter Template
+# Filtering Data using React and DateFns
 
-## Ready to rock with
+## Tools used in this screencast
 
-- NextJS
-- ReactJS
-- TailwindCSS
-- Absolute imports
-- CSS Modules
+- [Awesome JSON generator](https://mockaroo.com)
+- [NextJS](https://nextjs.org/)
+- [Production ready React](https://github.com/devmentorlive-youtube/next-tailwind-starter)
+- [Utility first css](https://tailwindcss.com/)
+- [Functional JavaScript date functions](https://date-fns.org/)
 
-## To use
+## Get the code here:
 
-npx create-next-app <your-app-name-here> -e https://github.com/devmentorlive-youtube/next-tailwind-starter
+- https://github.com/devmentorlive-youtube/filtering-data-using-date-fns-and-react
 
-- Happy Hacking!
+## See the video here
 
-```text
-Mark Tellez
-Sr. JavaScrript Programmer
-Chief Mentor
-DevmentorLive
-https://devmentor.live
-```
+- TBD
+
+## Want to talk to me directly Join my PRIVATE Discord?
+
+- [Support me via Patreon](https://www.patreon.com/devmentorlive)
+- [Support me via Youtube](https://www.youtube.com/devmentorlive)
+
+If you are joining my Youtube members, click the [JOIN] button from the link above.
+
+## Have feedback about this screencast?
+
+- https://airtable.com/shr5LAnCI2esJZHi6
